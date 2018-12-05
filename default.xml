@@ -7,6 +7,6 @@
                remote="github"
                sync-j="4" />
     
-      <project path="aplars/spiral-engine" name="spiral-engine" remote="github"/>
+      <project path="aplars/spiral-engine" name="aplars/spiral-engine" remote="github"/>
 </manifest>
 
