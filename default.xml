@@ -10,6 +10,7 @@
       <project path="desktop" name="aplars/spiral-architect-desktop" remote="github"/>
       <project path="desktop/spiral-engine" name="aplars/spiral-engine" remote="github"/>
       <project path="desktop/spiral-engine/externals/imgui" name="ocornut/imgui" remote="github"/>
+      <project path="desktop/spiral-engine/externals/imgui" name="assimp/assimp.git" remote="github" revision="80799bdbf90ce626475635815ee18537718a05b1"/>
 </manifest>
 
 
