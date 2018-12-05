@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
       <remote  name="github"
-               fetch="https://github.com/aplars/"/>
+               fetch="https://github.com/"/>
     
       <default revision="master"
                remote="github"
                sync-j="4" />
     
-      <project path="spiral-engine" name="spiral-engine” remote=“github” />
+      <project path="aplars/spiral-engine" name="spiral-engine” remote=“github” />
 </manifest>
