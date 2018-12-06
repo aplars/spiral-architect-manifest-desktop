@@ -13,5 +13,6 @@
       <project path="desktop/spiral-engine/externals/assimp" name="assimp/assimp.git" remote="github" revision="80799bdbf90ce626475635815ee18537718a05b1"/>
       <project path="desktop/spiral-engine/externals/libpng" name="glennrp/libpng.git" remote="github" revision="c17d164b4467f099b4484dfd4a279da0bc1dbd4a"/>
       <project path="desktop/spiral-engine/externals/glm" name="g-truc/glm.git" remote="github" revision="6fa203eeb7fbcbb6f620501fad40359c8a456049"/>
+      <project path="desktop/spiral-engine/externals/glfw" name="glfw/glfw.git" remote="github" revision="999f3556fdd80983b10051746264489f2cb1ef16"/>
 </manifest>
 
