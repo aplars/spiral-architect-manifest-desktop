@@ -12,6 +12,6 @@
       <project path="desktop/spiral-engine/externals/imgui" name="ocornut/imgui" remote="github"/>
       <project path="desktop/spiral-engine/externals/assimp" name="assimp/assimp.git" remote="github" revision="80799bdbf90ce626475635815ee18537718a05b1"/>
       <project path="desktop/spiral-engine/externals/libpng" name="glennrp/libpng.git" remote="github" revision="c17d164b4467f099b4484dfd4a279da0bc1dbd4a"/>
-      <project path="desktop/spiral-engine/externals/glm" name="g-truc/glm.git" remote="github" revision="9749727c2db4742369219e1d452f43e918734b4e"/>
+      <project path="desktop/spiral-engine/externals/glm" name="g-truc/glm.git" remote="github" revision="6fa203eeb7fbcbb6f620501fad40359c8a456049"/>
 </manifest>
 
