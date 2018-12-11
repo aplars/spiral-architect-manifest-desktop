@@ -3,7 +3,7 @@
       <remote  name="github"
                fetch="https://github.com/"/>
     
-      <default revision="master"
+      <default revision="develop"
                remote="github"
                sync-j="4" />
     
