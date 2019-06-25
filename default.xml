@@ -6,13 +6,16 @@
       <default revision="develop"
                remote="github"
                sync-j="4" />
-      
+      <!--
       <project path="desktop/spiral-engine/externals/imgui" name="ocornut/imgui" remote="github" revision="801645d35092c8da0eeabe71d7c1997c47aa3648"/>
       <project path="desktop/spiral-engine/externals/assimp" name="assimp/assimp.git" remote="github" revision="80799bdbf90ce626475635815ee18537718a05b1"/>
       <project path="desktop/spiral-engine/externals/libpng" name="glennrp/libpng.git" remote="github" revision="c17d164b4467f099b4484dfd4a279da0bc1dbd4a"/>
       <project path="desktop/spiral-engine/externals/glm" name="g-truc/glm.git" remote="github" revision="9749727c2db4742369219e1d452f43e918734b4e"/>
       <project path="desktop/spiral-engine/externals/glfw" name="glfw/glfw.git" remote="github" revision="999f3556fdd80983b10051746264489f2cb1ef16"/>
       <project path="desktop/spiral-engine/externals/zlib" name="madler/zlib.git" remote="github" revision="cacf7f1d4e3d44d871b605da3b647f07d718623f"/>
+      -->
+      <project path="." name="https://github.com/aplars/spiral_engine.git" remote="github"/>
+      
 </manifest>
 
 
