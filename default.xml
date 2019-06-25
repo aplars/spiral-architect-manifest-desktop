@@ -16,8 +16,8 @@
       -->
       <project path="." name="aplars/spiral_engine.git" remote="github" revision="c904864c22868a0a2a6e0bea1448eb55c0624558"/>
       <project path="spiral/externals/gl3w" name="skaslev/gl3w.git" remote="github" revision="5c927b9b7c50cdd9e0e302332a21e8df72c2cb19"/>
-      <project path="desktop/spiral-engine/externals/glm" name="g-truc/glm.git" remote="github" revision="9749727c2db4742369219e1d452f43e918734b4e"/>
-      <project path="desktop/spiral-engine/externals/imgui" name="ocornut/imgui" remote="github" revision="eb3e271c24c25f668be02bbf25aeb46a46b9fc08"/>
+      <project path="piral/externals/glm" name="g-truc/glm.git" remote="github" revision="9749727c2db4742369219e1d452f43e918734b4e"/>
+      <project path="piral/externals/imgui" name="ocornut/imgui" remote="github" revision="eb3e271c24c25f668be02bbf25aeb46a46b9fc08"/>
      
 </manifest>
 
