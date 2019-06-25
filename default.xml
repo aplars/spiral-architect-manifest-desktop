@@ -15,7 +15,7 @@
       <project path="desktop/spiral-engine/externals/zlib" name="madler/zlib.git" remote="github" revision="cacf7f1d4e3d44d871b605da3b647f07d718623f"/>
       -->
       <project path="." name="aplars/spiral_engine.git" remote="github" revision="c904864c22868a0a2a6e0bea1448eb55c0624558"/>
-      <project path="spiral/externals" name="skaslev/gl3w.git" remote="github" revision="5c927b9b7c50cdd9e0e302332a21e8df72c2cb19"/>
+      <project path="spiral/externals/gl3w" name="skaslev/gl3w.git" remote="github" revision="5c927b9b7c50cdd9e0e302332a21e8df72c2cb19"/>
      
 </manifest>
 
