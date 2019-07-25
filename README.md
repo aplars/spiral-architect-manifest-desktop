@@ -1,7 +1,7 @@
 # spiral-architect-desktop
-usage:
-repo init -u https://github.com/aplars/spiral-architect-desktop-manifest.git
-repo sync
+### usage
+1. repo init -u https://github.com/aplars/spiral-architect-desktop-manifest.git
+2. repo sync
 
 
   
