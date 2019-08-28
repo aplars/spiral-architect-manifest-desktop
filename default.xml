@@ -18,7 +18,7 @@
       <project path="spiral/externals/gl3w" name="skaslev/gl3w.git" remote="github" revision="5c927b9b7c50cdd9e0e302332a21e8df72c2cb19"/>
       <project path="spiral/externals/glm" name="g-truc/glm.git" remote="github" revision="9749727c2db4742369219e1d452f43e918734b4e"/>
       <project path="spiral/externals/imgui" name="ocornut/imgui" remote="github" revision="ebe79bbed00a13fd4455f04131b63d49c28ebd5d"/>
-      <project path="spiral/externals/SDL2/SDL2" name="https://github.com/spurious/SDL-mirror.git" remote="github" revision="ef5bf55e83c9d0ccf7a02bc2b08b0d6e46e1b6ef"/>
+      <project path="spiral/externals/SDL2/SDL2" name="spurious/SDL-mirror.git" remote="github" revision="ef5bf55e83c9d0ccf7a02bc2b08b0d6e46e1b6ef"/>
 </manifest>
 
 
