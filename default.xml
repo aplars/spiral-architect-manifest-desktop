@@ -14,8 +14,13 @@
       <project path="desktop/spiral-engine/externals/glfw" name="glfw/glfw.git" remote="github" revision="999f3556fdd80983b10051746264489f2cb1ef16"/>
       <project path="desktop/spiral-engine/externals/zlib" name="madler/zlib.git" remote="github" revision="cacf7f1d4e3d44d871b605da3b647f07d718623f"/>
       -->     
+      
+      
       <project path="." name="aplars/spiral_engine.git" remote="github" revision="master"/>
+      <!--
       <project path="spiral/externals/assimp" name="assimp/assimp.git" remote="github" revision="5fe728345fa859f6c18f834aac3ddef50bcb0f7d"/>
+      --> 
+      <project path="spiral/externals/assimp" name="assimp/assimp.git" remote="github" revision="085212e58ab0cf6dc96256e1577e9e31d0a8f3e2"/>
       <project path="spiral/externals/gl3w" name="skaslev/gl3w.git" remote="github" revision="5c927b9b7c50cdd9e0e302332a21e8df72c2cb19"/>
       <project path="spiral/externals/glm" name="g-truc/glm.git" remote="github" revision="9749727c2db4742369219e1d452f43e918734b4e"/>
       <project path="spiral/externals/imgui" name="ocornut/imgui" remote="github" revision="13f00331dacbfc6ff14e41fc359c4234100fa6b9"/>
