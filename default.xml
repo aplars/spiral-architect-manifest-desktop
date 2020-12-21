@@ -29,7 +29,7 @@
       <!--
       <project path="spiral/externals/Catch2" name="catchorg/Catch2.git" remote="github" revision="master"/>
       -->
-      <project path="spiral/externals/mingw-std-threads" name="meganz/mingw-std-threads.git remote="github"/>
+      <project path="spiral/externals/mingw-std-threads" name="meganz/mingw-std-threads.git" remote="github"/>
 </manifest>
 
 
