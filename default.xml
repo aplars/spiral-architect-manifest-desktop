@@ -26,6 +26,8 @@
       <project path="spiral/externals/imgui" name="ocornut/imgui" remote="github" revision="13f00331dacbfc6ff14e41fc359c4234100fa6b9"/>
       <project path="spiral/externals/SDL2/SDL2" name="spurious/SDL-mirror.git" remote="github" revision="a8b00e9d91e3f20f9aa988c32842fb4c3bd9bd5f"/>
       <project path="spiral/externals/stb" name="nothings/stb.git" remote="github" revision="052dce117ed989848a950308bd99eef55525dfb1"/>
+      <project path="spiral/externals/entt" name="skypjack/entt.git" remote="github" revision="8e0747fd505beb6861939a141ec0962c376d36f2"/>
+      
       <!--
       <project path="spiral/externals/Catch2" name="catchorg/Catch2.git" remote="github" revision="master"/>
       -->
