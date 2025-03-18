@@ -3,7 +3,7 @@
       <remote  name="github"
                fetch="https://github.com/"/>
       <remote  name="githubssh"
-               fetch="git@github.com/"/>
+               fetch="ssh://git@github.com/"/>
       
       <default revision="develop"
                remote="github"
