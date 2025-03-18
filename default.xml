@@ -2,7 +2,9 @@
 <manifest>
       <remote  name="github"
                fetch="https://github.com/"/>
-    
+      <remote  name="githubssh"
+               fetch="git@github.com/"/>
+      
       <default revision="develop"
                remote="github"
                sync-j="4" />
@@ -19,7 +21,7 @@
       -->     
       
       
-      <project path="." name="aplars/spiral_engine.git" remote="github" revision="master"/>
+      <project path="." name="aplars/spiral_engine.git" remote="githubssh" revision="master"/>
       <!--
       <project path="spiral/externals/assimp" name="assimp/assimp.git" remote="github" revision="5fe728345fa859f6c18f834aac3ddef50bcb0f7d"/>
       --> 
