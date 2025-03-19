@@ -20,9 +20,9 @@
 
       -->     
       
-      
+       <!--
       <project path="." name="aplars/spiral_engine.git" remote="githubssh" revision="master"/>
-      <!--
+     
       <project path="spiral/externals/assimp" name="assimp/assimp.git" remote="github" revision="5fe728345fa859f6c18f834aac3ddef50bcb0f7d"/>
       --> 
       <project path="spiral/externals/assimp" name="assimp/assimp.git" remote="github" revision="085212e58ab0cf6dc96256e1577e9e31d0a8f3e2"/>
