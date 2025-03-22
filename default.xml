@@ -25,7 +25,7 @@
      
       <project path="spiral/externals/assimp" name="assimp/assimp.git" remote="github" revision="5fe728345fa859f6c18f834aac3ddef50bcb0f7d"/>
       --> 
-      <project path="spiral/externals/assimp" name="assimp/assimp.git" remote="github" revision="085212e58ab0cf6dc96256e1577e9e31d0a8f3e2"/>
+      <project path="spiral/externals/assimp" name="assimp/assimp.git" remote="github" revision="c1ffbfec06aa27fd6909d3f2b011a73d8d7a2d0d"/>
       <project path="spiral/externals/gl3w" name="skaslev/gl3w.git" remote="github" revision="master"/>
       <project path="spiral/externals/glm" name="g-truc/glm.git" remote="github" revision="9749727c2db4742369219e1d452f43e918734b4e"/>
       <project path="spiral/externals/imgui" name="ocornut/imgui" remote="github" revision="13f00331dacbfc6ff14e41fc359c4234100fa6b9"/>
